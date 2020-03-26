@@ -81,4 +81,4 @@ async def on_message(message):
 
 
 
-client.run('#bot token)
+client.run('#bot token')
